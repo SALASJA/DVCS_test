@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tools/tools.h"
+#include "../tools/tools.h"
 
 int main(){
 
